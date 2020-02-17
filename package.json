@@ -1,0 +1,11 @@
+{
+  "name": "lodash-arees",
+  "version": "1.0.0",
+  "description": "sample npm package like lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "arees",
+  "license": "ISC"
+}
